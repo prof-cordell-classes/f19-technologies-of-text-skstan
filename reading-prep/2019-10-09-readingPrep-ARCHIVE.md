@@ -1,0 +1,16 @@
+# Reading Prep: CHAPTER 6: Archive 
+
+#### Sabina Stan
+
+## Questions or Observations
+
+1. Bonnie Mak reading - I wish there was more elaboration on how the pagina would differ for the more expensive and luxury ones. I didn't know how wax tables played an early role in codexes, especially in the design and layout (i.e. binding). One thing that I do wish was talked about more in this field is how paper and printing existed before this time in Asia. The content I have mostly read for class on this topic (I've done similar readings in my capstone class with Professor Boeckeler) are all quite Euro-centric. I also wish that there was more discussion on code and how we use it now, how languages and writing tie in, even how the visuals of a page of code compare. 
+
+2. James Gleick - The mention of Shakespeare is interesting. There is a conspiracy theory that Shakespeare was actually Sir Francis Bacon, and his plays were used to unite the country under one language. Now, since this is a conspiracy theory there isn't much fact nor is it taken very seriously academically. I did think it was interesting here to have contradictory evidence that Cawdrey actually didn't benefit from being in the same time as Shakespeare. 
+I found his table  of ordering things in an algorithm especially difficult, I can see how this was a trickly thing to explain and also write in a way that everyone would understand. 
+I am also very glad we don't have to use Cawdrey's dictionary now. The k designation is very confusing since he doesn't say what it stands for. His simple one word definitions are easy in their simplicity, but they do lack all the appropriate information. I also especially loved "For Cawdrey the dictionary was a snapshot". I think our modern online dictionary looses that as it is constantly updated. A close equivalent would be the words that are added each year. I think the addition of 'selfie' will be a pivotal moment in years to come, and Future generations will certainly be able to mark ours when they added selfie. 
+While this dictionary isn't the be all and end all, it is an incredible effort. I can't imaging trying to write down every word I know, and the definition. Maybe I'll start now, and by the end of my life I'll be almost done. 
+
+3. Ellen Cushman - I know very little about Native American history, so I hope I can learn something from this article. 
+Right off the bat, this table is much clearer to read and understand than what Cawdrey attempted to explain. The explanation of why preserving the language is actually not the goal, and how it can be offensive is important and probably something that should be stated more. 
+I can see how my lack of knowledge on the subject is a hindrance here, my apologies. I didn't attend a US school and this wasn't something we learned about in class. I didn't know that roman lettering wasn't used, or how different syntax and structures was used. This article did a really good job of laying things out clearly, especially page 75. I'm actually going to end up doing more research I'm quite interested. 
