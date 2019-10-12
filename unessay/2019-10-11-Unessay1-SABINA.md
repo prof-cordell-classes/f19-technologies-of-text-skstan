@@ -1,29 +1,33 @@
-#Sabina Stan
-#Unessay #1 - 11/10/2019
-#Technology of Text (Fall 2019)
+# Sabina Stan
+# Unessay 1 - 11/10/2019
+# Technology of Text (Fall 2019)
 
-###Medieval manuscripts meet modern art
+### Medieval manuscripts meet modern art
 
-##Idea: 
+## Idea: 
 Original: Modern/abstract approach to illuminated manuscripts w/ watercolours. Looking at my earlier pen work and then maybe using the printed letters as the lines. I could try and make a shape with them to paint with, or I could do a series from painting in modern books and then try and set up the page so I can do it properly or just a series. 
 Final: Abstract art in old text and medieval art in a new book, and the differences between them. How easy/difficult it is, does it work doing abstract artwork/medieval artwork in these situations? Does it support the text? 
 
-##Journal:
-	/As I worked on this project, I kept a Google Doc of notes so I could keep track of my thoughts and what didn’t work (or did). I’ve edited it for clarity but kept it largely the same to show the process I had. Most of these notes were taken in the Brattle Book Shop where I got the codexes that I used, and I found a lot of inspiration just wandering through the stacks./
+## Journal:
+*As I worked on this project, I kept a Google Doc of notes so I could keep track of my thoughts and what didn’t work (or did). I’ve edited it for clarity but kept it largely the same to show the process I had. Most of these notes were taken in the Brattle Book Shop where I got the codexes that I used, and I found a lot of inspiration just wandering through the stacks.*
 
 I took an initial trip down to Brattle bookstore to start looking for codex to illuminate. I had started art books with line drawings (no colours) since it reminded me of a woodcut/engraving print, and I could add the colours and details. I wasn’t sure this was fully transformative though, as this was just what they did in the past, with an artist filling the watercolours in on a print. I didn’t think that I could abstract the paint/drawing out more to enhance understanding. 
 
-Next, I was looking at old plays. I thought this would give me a good bit of space for adding designs. I deliberated on “Le 14 Juillet” by Romain Rolland (/images/14.juillet.jpg) for a long time, I forgot to take a picture of the inside but it had a great layout with plenty of negative space. It’s in French, so while I could add in a translation if I used it, I thought that it would be introducing another element that might cause problems. I also wasn’t familiar with the text, and while I scanned a translation in the store it didn’t jump out to me as the best choice. 
+Next, I was looking at old plays. I thought this would give me a good bit of space for adding designs. I deliberated on “Le 14 Juillet” by Romain Rolland ![14 juillet cover](/images/Unessay 1/14.juillet.jpg) for a long time, I forgot to take a picture of the inside but it had a great layout with plenty of negative space. It’s in French, so while I could add in a translation if I used it, I thought that it would be introducing another element that might cause problems. I also wasn’t familiar with the text, and while I scanned a translation in the store it didn’t jump out to me as the best choice. 
 
-I looked at “Scott’s Works” as an option as well, simply because it looked old. I wasn’t familiar with it and it didn’t seem that special once I opened it. (/images/scottsworks.jpg)I had a similar rationale with “Samlede Vaerker” by Jonas Lie. (/images/jonaslie.jpg)It had a gorgeous cover, but it wasn’t what I was looking for. The shop was closing as I reached their printing section, but I had managed a quick pass through the classics and mathematics section which gave me plenty to think about for when I came back. 
+I looked at “Scott’s Works” as an option as well, simply because it looked old. I wasn’t familiar with it and it didn’t seem that special once I opened it. 
+![scottsworks](/images/scottsworks.jpg)
+I had a similar rationale with “Samlede Vaerker” by Jonas Lie. 
+![jonaslie](/images/jonaslie.jpg)
+It had a gorgeous cover, but it wasn’t what I was looking for. The shop was closing as I reached their printing section, but I had managed a quick pass through the classics and mathematics section which gave me plenty to think about for when I came back. 
 
 
-I left with a 1944 copy of Virgil’s Aeneid and a Standard Swahili-English Dictionary from 1939. I chose these as the Aeneid was an oversized copy with a layout I really liked, so I thought it would give me plenty of space to be creative. It’s not terribly old, but it does look like it’s been made with a letterpress. Overall, it’s in incredible condition, I almost find the age hard to believe. It came in a box, so I suspect that it has just lived in there for its whole life. (/images/Aeneid1.jpg) (/images/aeneid2.jpg)
+I left with a 1944 copy of Virgil’s Aeneid and a Standard Swahili-English Dictionary from 1939. I chose these as the Aeneid was an oversized copy with a layout I really liked, so I thought it would give me plenty of space to be creative. It’s not terribly old, but it does look like it’s been made with a letterpress. Overall, it’s in incredible condition, I almost find the age hard to believe. It came in a box, so I suspect that it has just lived in there for its whole life. ![aeneid1](/images/Aeneid1.jpg) ![aeneid](/images/aeneid2.jpg)
 
-I chose the Dictionary since I thought it might be interesting for a dictionary to be illuminated, and this was a cheap copy in pretty good condition. The text also wasn’t as squished as some of the other dictionaries in the store, so that is another benefit. (/images/dictionarycover.jpg)
+I chose the Dictionary since I thought it might be interesting for a dictionary to be illuminated, and this was a cheap copy in pretty good condition. The text also wasn’t as squished as some of the other dictionaries in the store, so that is another benefit. ![dictionarycover](/images/dictionarycover.jpg)
 
 
-/Notes from my second trip/
+*Notes from my second trip*
 My method of searching out books was quite different from how I usually browse books. I scanned the shelves for old spines, and barely glanced at the titles. I focused on the layout of the pages much more than the content - lots of space on the margins, interesting blank space, or just different from the typical book. I wanted to stay away from the typical book layout since I thought it would be harder to paint in the small blank spaces left, and it would be difficult for the reader. However, as I spent more time thinking, I ended up wanting to try some of the normal book layouts to really try and make the illumination help the comprehension and see if the abstract watercolours enhanced reading. 
 On the topic of enhancing reading, I knew I needed to use books I was familiar with, to ensure I could try and paint things that would make sense, and hopefully texts that others knew as well. It defeats some of my purpose if people don’t understand the reading as then how can the illustration enhance it. On the other side, a proper illumination can increase understanding for those who aren’t familiar with the text. It gives information if you’re just glancing over it. 
 
@@ -34,74 +38,74 @@ For the old, I’ll have a known text and probably a more unknown one. This is s
 I also thought about trying a bible or a dictionary. These both have a fairly standardized layout that I think would make for interesting illuminating. I decided a Bible isn’t the best option, but I did get a little dictionary. In the same vein, I wanted to do a book with tables or diagrams. I decided I’ll get a maths book as well for this. 
 
 To buy: 
-	•	new Harry Potter 
-	•	Old old book- black letter 
-	•	Old Shakespeare 
-	•	Maths book.   
+-new Harry Potter 
+-Old old book- black letter 
+-Old Shakespeare 
+-Maths book.   
 
-/Notes after my second/final trip/
-	•	new Harry Potter 
+*Notes after my second/final trip*
+-new Harry Potter 
 This was very easy, I grabbed a copy of “Harry Potter and the Goblet of Fire” that was printed in 2000, the first American edition. This is actually the same as the copy I had growing up so it’s very familiar, and the text isn’t squished in to make the book smaller. 
-	•	Old old book- black letter 
-This was a tricky one. I couldn’t find anything that used Blackletter until I went into their rare-books room. There was a German book there that seemed to be poems that had it, although I didn’t see a date it looked pretty old. I ended up not to get this since it was pretty pricy at $25 for me to paint in it, and the text was actually really small. I wanted the Blackletter specifically to do some fun things with watercolours and the interesting shapes that it creates but that just wasn’t going to be possible with this. Also, I felt a bit guilty to be painting up such a lovely leatherbound book. I went back to the printing section where I had remembered seeing a book of printing types, published in 1930. This had great reproductions of type from 1501-1541 from England and Scotland, including plenty of Blackletter. While it’s not an original example of the font, I thought it would still give me the opportunity to have some fun with illuminating. (/images/typesetexamples.jpg)
-	•	Old Shakespeare 
+-Old old book- black letter 
+This was a tricky one. I couldn’t find anything that used Blackletter until I went into their rare-books room. There was a German book there that seemed to be poems that had it, although I didn’t see a date it looked pretty old. I ended up not to get this since it was pretty pricy at $25 for me to paint in it, and the text was actually really small. I wanted the Blackletter specifically to do some fun things with watercolours and the interesting shapes that it creates but that just wasn’t going to be possible with this. Also, I felt a bit guilty to be painting up such a lovely leatherbound book. I went back to the printing section where I had remembered seeing a book of printing types, published in 1930. This had great reproductions of type from 1501-1541 from England and Scotland, including plenty of Blackletter. While it’s not an original example of the font, I thought it would still give me the opportunity to have some fun with illuminating. ![typesetexampeles](/images/typesetexamples.jpg)
+-Old Shakespeare 
 I was pretty disappointed with what they had for Shakespeare. I really struggled to find any copies of entire works or even single plays, they had mostly commentary books. I especially couldn’t find anything that was particularly old. However, a stroke of luck hit when I spotted an old copy of “The Merchant of Venice” on a shelf in a whole other section. It is “as arranged for the contemporary stage by David Belasco” and privately printed in 1922. Again, not as old as I hoped but it does have a great layout with plenty of space for illustrations, and it seems to be printed on a letterpress as well. 
-	•	Maths book.   
+-Maths book.   
 I had a few maths books that I really loved and even a nautical navigation book that I really wanted to include. However, I spotted this old book on the $3 shelf and once I opened it I knew I had to bring it home. It’s entirely in Yiddish, which I have very little experience with, and it’s got some handwritten notes and additions too. There’s a note from December 1873, but it looks like it was published in 1846, possibly in Germany. There’s a tag with a title in German and a note that is in Yiddish so I’ll do some more research. 
 
-##Plan: 
+## Plan: 
 I’ve been working on developing my watercolour style for a while now, and lately, I’ve been experimenting with combining abstract shapes and rigid black lines. 
-(/images/sksart1.jpg)
-(/images/sksart2.jpg)
+![sksart1](/images/sksart1.jpg)
+![sksart2](/images/sksart2.jpg)
 Usually, I avoid using black as it can really deaden a piece, but for this, I really loved how the black pen contrasted. With this in mind, I plan to do some of the older pages in these abstracted styles since it is so different from what the medieval manuscripts had. There does seem to be some general use of colour between lines in Blake’s work, but I haven’t seen an example yet of a purely abstracted design. I’ll be doing multiple ones over the different pages to get a feel of what I want. I’m really nervous about painting in these books! It feels wrong on some levels. I’m trying to put myself in the mind of the painters who worked on manuscripts. I think I’ll start with the dictionary, then the letterpress book, then the Aeneid and finally the Merchant of Venice. I’ll also do the Harry Potter book after as well since that will take a lot more time. 
 I’m planning on drawing in filagree for the chapters and some Historiated letters. I’m also hoping to do smaller illustrations in some places where I can fit them in. 
 As another note, I’ve also decided to not use the Yiddish book. My research showed that it’s a Siddur, which is a Jewish prayer book. It would be disrespectful for me to start to mark it, especially paintings, for this project so it won’t be included going forward. 
 
-##Process: 
+## Process: 
 Dictionary: 
 I started a bit abstract with blue squiggles to get a feel for the paper and to get comfortable painting in the book. 
-(/images/dictionary1.jpg)
+![dictionary1](/images/dictionary1.jpg)
 Unless otherwise specified, I used watercolours as my medium.  I decided to then try almost highlighting the Swahili words on the next page. I wanted to get bolder and more artistic than this though. Since this is a Swahili to English dictionary, I wanted to try and do designs that would highlight certain English definitions on the page and pull them out. I personally can struggle with dictionaries, seeing them more as blocks of black squiggles than the words I know. I thought a sunset might be a recognizable one to paint, so I actually looked up sunset in Swahili (Jua) and then find it in the dictionary. This actually means a lot of different things to do with the sun so I ended up putting liquid latex over Jua, sunrise, and sunset to pull them out specifically. I taped down the centre to stop the paint spreading, and got to work. I went for a yellow to red/purple gradient. This paper actually took the watercolours really well and didn’t pill up. I had intended to peel off the liquid latex, but when the paint had dried I realized I probably couldn’t without damaging the paper. I actually quite like the blue bubbles it left so it was a happy accident.
-(/images/dictionary2.jpg) 
+![dictionary2](/images/dictionary2.jpg) 
 I think here the illuminating really did pull the words out. The rest of the words are still legible so you can still use this as a normal dictionary, but Jua does stick out much more than the other words. It would be hard to look at this page and not read that first. I kept flipping around the dictionary for other words to focus on. I tried colours, but I don’t think they’re listed in this dictionary. Similarly, I wanted to find “Primary” and use the primary colours but I couldn’t find it either. While looking for these though, I found Mwafu, which is the word for Jasmine. I’m a big fan of flowers, so I decided to work on this page too. I wanted to do a full spread instead of the half page, with the definition for Jasmine being the only ‘empty’ space on the page i.e. no paint. Jasmine flowers are usually white, but that wouldn’t work too well with my idea and I didn’t want to white-out half the page for the petals since you would lose so many words. Plus, I’d have to use a more opaque paint for this, like acrylic. Any medium that would be able to block the text would also be much thicker than watercolour, and would impact how the page is interacted with. It would stick out much more than any of the other pages, and probably crack if it was handled too much. I made the jasmine flower purple then, since purple is a rich and typically expensive colour, and in my mind, I always think of purple when I think of jasmine. I mixed two different greens on the page (I put them straight from the pan onto the paper, and then swirled them together to get a looser mixed effect instead of one cohesive colour). I wasn’t really happy with how this flower worked out as a painting, but I tried to not focus on that necessarily and more on how it enhanced the page.
-(/images/dictionary3.jpg) 
+![dictionary3](/images/dictionary3.jpg) 
 I found it was a bit messy and complicated to look at all the words and the colours, and Jasmine didn’t stick out as much as the definition. I decided to break out the pens since that has helped me in the past when a watercolour seems to be getting lost. I think the ink helped ground the image, even if it does stop some words from being read. This page overall is a bit less useful than the sunset one, but I think it’s still understandable. 
-(/images/dictionary4.jpg)
+![dictionary4](/images/dictionary4.jpg)
 If you didn’t know either language, I think you could figure out that the word was for a flower, maybe not specifically jasmine but I’ll work on my drawing skills for that. The next word I found was for a bee. I decided to do a full-page again, but something more graphic and less complex as I think that would be easier for the reader. This one might not be as obvious as the others that it’s meant to represent a bee, but I think once the reader spots the little black cartoon bees it’ll all click into place. I wanted to keep my drawings minimal and small so it’s more like an Easter egg hunt, or if you happen to be looking for bee you’ll find this as a little surprise. 
-(/images/dictionary5.jpg)
+![dictionary5](/images/dictionary5.jpg)
 This page didn’t provide more understanding for the reader as the others did. Instead, it focuses more on making it an interesting page and more attractive. This is the sort of design that I think would’ve been used to make a book seem more expensive in the past. I wanted to do a plate design for one of the pages where a new letter starts, and N had a lot of nice space for this. I wanted to have a design reminiscent of the rules that used to be used to line up text, but I think this was lost in the overall design. I had also wanted it to look like a series of N’s over and over again. I didn’t leave gaps between the two verticle lines as stopped the pattern from reading as N’s when they were stacked. I added in the rainbow colours with felt-tipped marker for better control in the small space. I thought the gradient of colours would be bright and vibrant, a contrast to the majority of the book. I ended with purple on its own again as purple is a royal colour and I thought it would be powerful to end on that. 
-(/images/dictionary6.jpg)
+![dictionary6](/images/dictionary6.jpg)
 I think this is one of my favourite parts, I’d love to try and do the same thing with all of the letter pages. 
 
 Letterpress examples: 
 I was really excited about the images that were already in place in this book, and for the first one, I did indulge myself a bit and do a more simple painting within the lines. I tried to pick some unusual colours, but this isn’t vastly different from other manuscripts that exist. 
-(/images/type1.jpg)
+![type1](/images/type1.jpg)
 For the next one, I tried to be a bit more focused, and I only used one colour for the entire image. I wanted to use purple again, but I don’t actually have it ready in a pan. Mixing one is easy, but it’s hard to get the same vibrancy and opacity in some places with a mixed colour. For example, in this piece I used a lot of paint with very little water to make the deepest and darkest parts. But to mix a colour, you need to use a lot of water to pull enough pigments off the pan and onto the separate try to mix it. The colours are never as concentrated since they’re not coming off a pan of dried colour. I used a lovely magenta I have in a pan instead so I could get that depth. I still found this to be a difficult exercise, mainly to keep enough variation in shades. I started on the robes, and looking back I could’ve made these softer and more transparent so they stood out better. I filled in some of the letters with the same purple for cohesion across the page. 
-(/images/type2.jpg)
+![type2](/images/type2.jpg)
 Moving onto the next page, I wanted to do something much more abstract and different to break out of the traditional manuscript illuminating. While my previous two exercises in this book were interesting they didn’t differ too far from what illuminating was actually like. So for this page, I took a favourite combination of orange and light blue (complementary colours), and started to drip them on the page. I had already wet-brushed the paper so they would spread beautifully. I tried to put the orange in a triangle pattern as this generally helps composition. I thought about adding more colours, but I’m really happy with this soft cloud-like pattern I got in the end.
-(/images/type3.jpg)
+![type3](/images/type3.jpg)
 The final pattern I ended up doing was a yellow-blue combination. I wanted to use the yellow in straight lines and right angles while the blue meandered over the text like a vine. I’m not sure that this necessarily enhanced the text, but I think its visually compelling. 
-(/images/type4.jpg)
+![type4](/images/type4.jpg)
 
 The Merchant of Venice: 
-(/images/movcover.jpg)
+![movcover](/images/movcover.jpg)
 At this point, I realized that I may have more books than I actually needed for this exercise. I decided to cut the Aeneid since it was pretty similar spatially to the Merchant of Venice, and I was planning on using some aspects from the play to tie into the illustrations. I started with a loose map of Venice on the starting page. It’ something that I’m not sure the reader would necessarily recognize off the bat, but I think it ties old and modern illustrations. 
-(/images/mov1.jpg)
+![mov1](/images/mov1.jpg)
 It’s not as overt as some of the medieval manuscripts but it also has a defined link to the text. I added a giant coin for the scene where money is lent, which is a pivotal part of the play as a whole, and a few other small illustrations.
-(/images/mov3.jpg)
-(/images/mov2.jpg)
+![move3](/images/mov3.jpg)
+![mov2](/images/mov2.jpg)
  I added in the map of Morocco on the scene where the Prince of Morocco meets one of the main characters as well, which links back to the front page map. 
-(/images/mov4.jpg)
+![mov4](/images/mov4.jpg)
 
 Harry Potter: 
 Doing the more medieval style illustrations was a lot more difficult. I had reference photos of medieval manuscripts up on my computer, and I found that rich colours and borders were a common feature. I tried to use pure and vibrant colours for the snake border, and it started out great when it was just red and blue. However, as it kept going it started to look more rainbow and carnival-like. I didn’t have as much space around the letters to make proper historiated letters on chapter pages, but I did try to add some flair. For the first one, I did another little snake and I tried to make it look bejeweled with red and blue gems. 
-(/images/hp1.jpg)
+![hp1](/images/hp1.jpg)
 I kept the snake imagery here as Nagini (a snake) plays a key role in this chapter. The next chapter I looked at was the “Goblet of Fire”. This obviously lends itself to images of goblets and fire - I tried to create a border of blue licks of flame. The ‘I’ at the start of the chapter was helpful as I could almost shape it like a goblet, Historiating the letter. 
-(/images/hp2.jpg)
+![hp2](/images/hp2.jpg)
 Finally, I  worked on a chapter about dragons. I tried to do another interpretation of flames but with red this time to symbolize the dragon’s strength. I didn’t try to historiate the letter as I kept finding it was just altogether too small to make a proper design. 
-(/images/hp3.jpg)
+![hp3](/images/hp3.jpg)
 
-##Final:
+## Final:
 I had so much fun painting and adding details in all of these books, but this excercise showed how this isn’t an easy job to have. Coming up with the ideas to decorate all the books was difficult, but even the technical skill needed was hard. Keeping my hand steady to paint in printed lines, mixing the right colours, even just where to fit designs in and making sure the pigment doesn’t bleed through all makes it a much harder process than it might seem originally. Even with modern materials, I struggled with some parts, especially when I was trying to do more medieval designs. The looser and more abstracted designs are my favouite end-products, but they were also my favourite to make. I think that they’re closer to book-art rather than an illuminated manuscript, but I’m not sure there’s always a huge difference. The manuscripts had a clear purpose and reason why they were created, but so do the book-art. Both raise the value of the book and add a visual component. I guess the manuscript illustrations are created in tandem to the text rather than book-art which can be pretty much anything. 
 In addition, I think this project showed a progression of art style from abstract where the colours are there to be beautiful, not necessarily giving extra details, to the more medieval style where the images are clear and tie into the book. Again, I prefer the abstract! My personal favourite is the cloud-like watercolours over the Blackletters. I like the similarities between the Merchant of Venice and Harry potter especially. I think that the style I used in the Merchant is really neat and I’d actually like to go and do it for every scene title page. I think I could’ve had more fun with the Harry Potter illustrations if I didn’t have the limitation of focusing on the medieval style. 
 This project taught me there is much more to illuminating manuscripts than I had originally thought, but also that art can be used in a book for more than use a guiding image or explanation, and it doesn’t necessarily have to take away from the content itself. For most of my additions, you can still read and use the book as before. I’m so pleased with the colours, and it makes me wish that more modern books had some fun with the printing, adding in colours or better layouts, even the fonts. I think I’ll be doing some more on this on my own time in the future. 
