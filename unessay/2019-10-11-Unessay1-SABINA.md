@@ -1,5 +1,5 @@
 #Sabina Stan
-#Unessay #1 - 11/10/2019
+#Unessay 1 - 11/10/2019
 #Technology of Text (Fall 2019)
 
 ###Medieval manuscripts meet modern art
