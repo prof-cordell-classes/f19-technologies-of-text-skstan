@@ -9,6 +9,23 @@
 - in an executable block of code a # is how you comment out a line, it makes it not part of it. You can use it as a commenting feature about what a block of code is doing, or use it to experiment with a line of code, turning it off and on as you add or remove the #.
 - #filter(LewisburgChronicle >= 1 & VermontPhoenix >= 1) %>% is filtering if the text appears in both publications. 
 
+-Corpus is not a single book, it's a collection of books. 
+
+-Sentiment analysis
+	- analysis the emotional levels of words
+	-1 way, assigning words as scale 
+	-2 Values are assigned to words, and words are given categories
+-Sentiment dictionary 
+- Classified every word with categories, Based on a widely avalible lexicon for sentiment analysis. Some words have multiple sentiment categories. Probably not stop words
+ 
+-All the answers are in lab solutions
+
+-Topic modeling all based on probabilities 
+-Things always belong, but just how likely it belongs 
+- need a large corpus
+-There will always be a category of random things that didn't fit elsewhere
+
+
 You should begin with _1-2 paragraphs_ outlining precisely what you did in the lab activity. While much in these paragraphs will repeat between students, it is worthwhile to write out your experience, both to help you remember what you did and because your experiences—and what you take away or emphasize—will differ in subtle but important ways from your classmates. Most of our experiential activities will include specific outcomes. You might produce a specific material product, such as a letterpress printed sheet, or be asked to adapt code we went over together to answer a new question. The first task of any lab report, then, will be to demonstrate completion of these tasks.
 
 Your entries may also include pictures taken during a given lab (and in fact many would benefit from such images. Any images you use should be added to the `images` folder in your repository.
